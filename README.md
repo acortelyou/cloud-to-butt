@@ -1,9 +1,10 @@
 team-names
 =============
 
-![](logo.png)
-
 Chrome extension that replaces occurrences of team names
+
+The Left  -> Periwinkle
+The Right -> Orangered
 
 [Direct download of extension crx file](https://github.com/acortelyou/team-names/blob/master/TeamNames.crx?raw=true)
 
@@ -12,6 +13,6 @@ Chrome extension that replaces occurrences of team names
 Installation
 ------------
 
-In Chromium based browsers, choose Window > Extensions.  Drag TeamNames.crx into the page that appears.
+In Chromium based browsers, choose Window > Extensions.  Drag the crx file into the page that appears.
 
-In Google Chrome, additionally whitelist the extension in the registry by merging GoogleChromeExtensionInstallWhitelist.reg and then restart Chrome (chrome://restart).
+In Google Chrome, additionally whitelist the extension in the registry by merging the reg file and then restart Chrome (chrome://restart).
