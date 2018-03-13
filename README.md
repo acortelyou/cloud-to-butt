@@ -10,4 +10,4 @@ Chrome extension that replaces occurrences of team names
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag TeamNames.crx into the page that appears.
