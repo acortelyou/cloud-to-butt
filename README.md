@@ -1,7 +1,7 @@
 team-names
 =============
 
-Chrome extension that replaces occurrences of team names
+Chrome extension that replaces occurrences of ideological team names with reddit ones
 
 The Left  → Periwinkle
  
