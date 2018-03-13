@@ -19,4 +19,4 @@ Installation
 
 In Chromium based browsers, choose Window > Extensions.  Drag the crx file into the page that appears.
 
-In Google Chrome, additionally whitelist the extension in the registry by merging the reg file and then restart Chrome (chrome://restart).
+In Google Chrome on Windows, additionally whitelist the extension with the reg file and then restart Chrome (chrome://restart).
