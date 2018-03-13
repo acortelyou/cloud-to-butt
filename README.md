@@ -3,8 +3,10 @@ team-names
 
 Chrome extension that replaces occurrences of team names
 
-The Left  -> Periwinkle
-The Right -> Orangered
+The Left  → Periwinkle
+ 
+The Right → Orangered
+
 
 [Direct download of extension crx file](https://github.com/acortelyou/team-names/blob/master/TeamNames.crx?raw=true)
 
