@@ -6,11 +6,15 @@ function walk(node)
 	// http://is.gd/mwZp7E
 	
 	var child, next;
-	
+
+	try {
+
 	if (node.tagName.toLowerCase() == 'input' || node.tagName.toLowerCase() == 'textarea'
 	    || node.classList.indexOf('ace_editor') > -1) {
 		return;
 	}
+
+	} catch (e) {}
 
 	switch ( node.nodeType )  
 	{
