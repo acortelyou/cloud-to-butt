@@ -1,6 +1,8 @@
 team-names
 =============
 
+<img src="https://github.com/acortelyou/team-names/raw/master/logo.png" width="512">
+
 Chrome extension that replaces occurrences of ideological team names with reddit ones
 
 The Left  → Periwinkle
