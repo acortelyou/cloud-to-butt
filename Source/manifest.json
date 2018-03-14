@@ -1,8 +1,9 @@
 {
 	"manifest_version": 2,
 	"name": "Team Names",
-	"version": "1.0",
-	"description": "Replaces the text 'the left/right' with 'periwinkle/orangered'.",
+	"version": "1.1",
+	"description": "Replaces the political references to the 'left/right' with 'periwinkle/orangered'.",
+	"update_url": "https://github.com/acortelyou/team-names/blob/master/updates.xml?raw=true",
 	"content_scripts": 
 	[
 		{
@@ -12,4 +13,3 @@
 		}
 	]
 }
-
